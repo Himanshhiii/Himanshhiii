@@ -3,6 +3,7 @@ Hi there! I am Himanshi Sharma.<br><br>Code, coffee, and curiosity | CSE student
 
 <img src="https://media3.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=ecf05e47cw0lnc26bg4ir2r20txwz6qdbjbrttv1dr3q1o3p&ep=v1_gifs_search&rid=giphy.gif&ct=g" width=40% align= right>
 
+Checkout my Portfolio website: https://himanshhiii.github.io/
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/himanshhiii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/himanshi-sharma-22b1a2232) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Himanshhiii) 
