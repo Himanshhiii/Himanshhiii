@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I am Himanshi Sharma.<br><br>Code, coffee, and curiosity | CSE student exploring the endless possibilities of tech.<br>
+Hi there! I am <b>Himanshi Sharma</b>.<br><br>Code, coffee, and curiosity | CSE student exploring the endless possibilities of tech.<br>
 
 <img src="https://media3.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=ecf05e47cw0lnc26bg4ir2r20txwz6qdbjbrttv1dr3q1o3p&ep=v1_gifs_search&rid=giphy.gif&ct=g" width=40% align= right>
 
